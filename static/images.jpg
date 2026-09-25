@@ -1,0 +1,2 @@
+<img src="{{ url_for('static', filename='images.jpg.jpg') }}"
+     alt="MIT Polytechnic College">
